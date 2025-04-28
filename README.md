@@ -66,4 +66,11 @@ I’d love to hear from you! Feel free to reach out:
 
 ---
 
+## ⚡ Dynamic Quote of the Day
+> "A journey of a thousand miles begins with a single step." 🌟  
+
+> *(This section can be dynamically updated using GitHub Actions to fetch daily inspirational quotes.)*
+
+---
+
 Thanks for visiting my profile! 😊 Let’s build something amazing together. 🚀
