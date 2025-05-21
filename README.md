@@ -48,18 +48,6 @@ Here are some of the projects I’m proud to showcase:
 
 ---
 
-## 🔥 Activity Graph  
-[![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=poojapathak0&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 🎯 Today’s Highlight  
-⏰ **Current Time:** 2025-04-28 07:18:51 (UTC)  
-
-💡 **Quote of the Day:**  
-> "The best way to predict the future is to invent it."  
-
----
 
 ## 📬 Let’s Connect  
 I’d love to hear from you! Feel free to reach out:  
