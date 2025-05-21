@@ -31,7 +31,7 @@ Here are the tools and technologies I work with:
 ## 📊 GitHub at a Glance  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=poojapathak0&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=poojapathak0&layout=compact&theme=tokyonight)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=poojapathak0&theme=tokyonight)
+
 
 ---
 
