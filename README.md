@@ -8,7 +8,7 @@ I’m a **developer** passionate about building, creating, and solving problems 
 ## 🌟 About Me  
 - 💻 **Developer** | Bringing ideas to life through code.  
 - 📚 **Lifelong Learner** | Always curious, always growing.  
-- 🌐 **Portfolio**: [My-First-Website](https://poojapathak0.github.io/pp/)  
+- 🌐 **Portfolio**: [ME](https://poojapathak0.github.io/pp/)  
 - 💼 **LinkedIn**: [Pooja Pathak](https://www.linkedin.com/in/pooja-pathak-9984a1306/)  
 
 ---
