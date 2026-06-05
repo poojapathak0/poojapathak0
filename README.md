@@ -1,16 +1,16 @@
   # Hey there! 👋 I'm Pooja Pathak  
 
-Welcome to my little corner of the internet! 🚀  
-I’m a **developer** passionate about building, creating, and solving problems through code. Every day is an opportunity to learn something new and make a positive impact. 🌍   
+Welcome to my little corner of the internet! 
+I’m a **developer** passionate about building, creating, and solving problems through code. Every day is an opportunity to learn something new and make a positive impact.   
 ( working on my programming language Vyra)
 
 ---
  
 ## 🌟 About Me  
-- 💻 **Developer** | Bringing ideas to life through code.  
-- 📚 **Lifelong Learner** | Always curious, always growing.  
-- 🌐 **Portfolio**: [ME](https://poojapathak0.github.io/pp/)  
-- 💼 **LinkedIn**: [Pooja Pathak](https://www.linkedin.com/in/pooja-pathak-9984a1306/)  
+-  **Developer** | Bringing ideas to life through code.  
+-  **Lifelong Learner** | Always curious, always growing.  
+-  **Portfolio**: [ME](https://poojapathak0.github.io/pp/)  
+-  **LinkedIn**: [Pooja Pathak](https://www.linkedin.com/in/pooja-pathak-9984a1306/)  
 
 ---
 
@@ -36,7 +36,7 @@ Here are the tools and technologies I work with:
 
 ---
 
-## 🚀 Featured Projects  
+##  Featured Projects  
 Here are some of the projects I’m proud to showcase:  
 
 - **[Root Finder](https://github.com/poojapathak0/root-finder)**: A JavaScript tool to solve mathematical equations.  
